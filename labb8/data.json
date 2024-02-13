@@ -1,0 +1,16 @@
+{
+    "name": "Alisher",
+    "age": 20,
+    "obj1": {
+        "id": "comp3012",
+        "subject": "node.js"
+    },
+    "obj2": {
+        "id": "comp4669",
+        "subject": "Advanced web applications"
+    },
+    "obj3": {
+        "id": "mathh1060",
+        "subject": "Stats for data analysis"
+    }
+}

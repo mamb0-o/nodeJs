@@ -1,0 +1,46 @@
+[{
+        "courseName": "Advanced Web Applications",
+        "courseNumber": 4669,
+        "Description": "​This hands-on course continues on from COMP 3015 – Web Application Development with PHP. Students focus on Object Oriented Programming (OOP) with PHP to develop complex commercial quality web applications. COMP 4669 begins with the PHP in the command line interface (CLI). Labs and exercises use open source libraries and integrate with application frameworks to safely persist passwords and communicating with third party services. The model-view-controller (MVC) pattern and JavaScript Object Notation (JSON) middle-ware for advanced web applications are introduced. Application Programming Interface (API) services, OAuth open standard for consumer implementations and Cross Origin Resource Sharing (CORS) are discussed and used in assignments.",
+        "Credits": 3,
+        "PreRequisites": "COMP 3015"
+    },
+
+    {
+        "courseName": "Back-End Web Development with Node.js",
+        "courseNumber": 3012,
+        "Description": "This hands-on course follows on from COMP 2132 and was designed for students with prior experience developing web pages using HTML5, CSS3 and JavaScript. Students must provide their own current model PC, i5 or higher equivalent processor, 8 GB of RAM minimum, and 256 GB minimum storage. Highspeed internet access is needed for online sections and for homework. Starting with how Node.js fits into client-server software architecture, participants will focus on the Node.js programming model. Labs and exercises cover creating, installing and using node modules. Web frameworks like Express.js and Jest as used to build and test powerful web applications. Students will experience how Node.js is used by enterprise environments and modern web stacks like MEAN and MERN. Topics include: how to build, and deploy a RESTful API following best-practices, and learn error handling strategies. Typescript integration with Node.js as well as how to connect to databases will also be discussed.",
+        "Credits": 3,
+        "PreRequisites": "COMP 2015 or COMP 2132"
+    },
+
+    {
+        "courseName": "stats for Data Analysis",
+        "courseNumber": 1060,
+        "Description": "This hands-on course introduces descriptive statistics, basic inferential statistics, linear regression, and probability concepts and calculations. Emphasis throughout the course will be placed on using statistical methods for the exploration and analysis of data sets. This introduction will enable students to use statistics for data analysis, will prepare them for “Data Analytics/Mining,” and covers topics appropriate for anyone seeking a first statistics course. Labs and exercises employ standard graphical methods to represent statistical data. Hypothesis tests, including ANOVA, are used to test for significant differences between multiple groups. Students will be introduced to the open source R Programming language, a statistical analysis tool used to extract meaningful information from a variety of scientific, industrial and commercial data sets. Upon successful completion, students will be able to carry out calculations, perform statistical decision making and solve problems with involving collected data. This course prepares the student to move on to MATH 3060 and is a required course for the Applied Data Analytics Certificate offered by BCIT Computing.",
+        "Credits": 3,
+        "PreRequisites": "Math 12 Pre-Calculus or equivalent"
+    },
+
+    {
+        "courseName": "Internet and IT Law",
+        "courseNumber": 3205,
+        "Description": "This practical course is for BCIT Computing and Business students who want to learn about laws and policies applicable to the Internet and information technology, as well as intellectual property rights. Topics covered in this course include the following: copyright, patents, trade secret, trademarks, domain names, cybercrime, privacy, e-commerce and online contracts, and online advertising.",
+        "Credits": 3,
+        "PreRequisites": "None"
+    },
+    {
+        "courseName": "Intro Web App with PHP",
+        "courseNumber": 3015,
+        "Description": "This hands-on advanced course follows on from JavaScript is aimed at students who already possess a solid understanding of web development and who have programming experience. COMP 3015 begins with basic client/server concepts, participants are introduced to server-side programming with PHP theory, basic syntax and a variety of open-source software tools. Topics include: data encoding, regular expressions, input sanitization and common components to a typical web application. MySQL, password hashing, and SSL/TLS are also discussed. Participants are provided with a front-end web application to connect to the back-end and gain experience with the major functions of server-side programming, and client/server architecture. They will gain experience making use of cookies, headers and developing procedural scripts. Labs and exercises include different encoding types for transport between browser and server application, basic web application security and the dangers of cross site scripting, session hijacking and the difference between synchronous/asynchronous calls for AJAX requests.This hands-on advanced course follows on from JavaScript is aimed at students who already possess a solid understanding of web development and who have programming experience. COMP 3015 begins with basic client/server concepts, participants are introduced to server-side programming with PHP theory, basic syntax and a variety of open-source software tools. Topics include: data encoding, regular expressions, input sanitization and common components to a typical web application. MySQL, password hashing, and SSL/TLS are also discussed. Participants are provided with a front-end web application to connect to the back-end and gain experience with the major functions of server-side programming, and client/server architecture. They will gain experience making use of cookies, headers and developing procedural scripts. Labs and exercises include different encoding types for transport between browser and server application, basic web application security and the dangers of cross site scripting, session hijacking and the difference between synchronous/asynchronous calls for AJAX requests.",
+        "Credits": 3,
+        "PreRequisites": "COMP 2132 (Note: Non-programmers are advised to complete COMP 2912 or COMP 3012 prior to COMP 3015)."
+    },
+    {
+        "courseName": "Applied IT Security",
+        "courseNumber": 3704,
+        "Description": "IT security is growing area with several domains including both information security and network security. This course replaces COMP 3705 which covered both information security and network security. COMP 3704 will provide a more in depth overview of key topics in information security only and is one of the prerequisites for COMP 4704 Applied Network Security. IT professionals across multiple sectors from software development, database, web, mobile and networks will benefit from the material covered. This hands-on course is led by local industry experts who will share their knowledge and best practices for securing computer systems. Students will complete labs and exercises to experience applied IT security and gain a practical knowledge. Topics will include: security awareness, risk mitigation and control administration, data and application security, cryptography, attack techniques, penetration testing, vulnerability assessment, incident response, disaster recovery, and forensic analysis.",
+        "Credits": 3,
+        "PreRequisites": "COMP 1002 or equivalent knowledge."
+    }
+]

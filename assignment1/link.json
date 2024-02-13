@@ -1,0 +1,25 @@
+{
+    "courses": [
+
+        {
+            "Name": "Web Development with Node.js",
+            "id": "COMP3012",
+            "credits": "3",
+            "day": "Saturday"
+        },
+
+        {
+            "Name": "Advanced Web Applications",
+            "id": "COMP4669",
+            "credits": "3",
+            "day": "Monday"
+        },
+
+        {
+            "Name": "Stats for Data Analysis",
+            "id": "COMP1060",
+            "credits": "3",
+            "day": "Thursday"
+        }
+    ]
+}
